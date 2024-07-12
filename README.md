@@ -6,6 +6,6 @@ Ce script installe Docker et Portainer sur AlmaLinux.
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/portainer-installation.git
+   git clone [https://github.com/Rooot3301/INSTALLPORTAINER.git]
    cd portainer-installation
 
